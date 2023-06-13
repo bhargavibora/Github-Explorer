@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#search-form {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#search-input {
+  padding: 5px;
+  width: 300px;
+  font-size: 16px;
+}
+
+#search-button {
+  padding: 5px 10px;
+  font-size: 16px;
+}
+
+#results {
+  margin: 0 auto;
+  width: 800px;
+}
+
+.profile {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.repo {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.repo h3 {
+  margin-top: 0;
+}
+
+.repo p {
+  margin-bottom: 0;
+}
